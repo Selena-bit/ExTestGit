@@ -3,7 +3,6 @@ package com.lec.sts19_rest.domain;
 import java.util.List;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
-import com.fasterxml.jackson.databind.annotation.JsonPOJOBuilder;
 
 public class AjaxWriteList extends AjaxWriteResult {
 
